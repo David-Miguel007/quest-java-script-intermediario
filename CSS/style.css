@@ -12,6 +12,7 @@ body {
 .paisagem.selecionada img {
     height: 100vh;
     width: 100vw;
+    object-fit: cover;
 }
 .conteudo {
     position: fixed;
